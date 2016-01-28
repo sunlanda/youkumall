@@ -1,0 +1,18 @@
+body {
+  background-image: url('../images/pipe.png');
+}
+body h1 {
+  color: blue;
+}
+body {
+  background-image: url('../images/pipe.png');
+  font-size: 15px;
+  font-family: "microsoft yahei";
+}
+body h1 {
+  color: aqua;
+  display: block;
+}
+body div {
+  bottom: 0;
+}
