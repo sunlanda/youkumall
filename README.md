@@ -1,1 +1,5 @@
-#è¿™æ˜¯ä¸€ä¸ªyoukumallé™æ€åˆ‡å›¾é¡µé¢
+#ÕâÊÇÒ»¸öyoukumall¾²Ì¬ÇÐÍ¼Ò³Ãæ
+##DOM²Ù×÷Ê¹ÓÃjquery,¶¯Ì¬Ð§¹ûÊ¹ÓÃÔÚÂÖ²¥Í¼,ÉÌÆ·Õ¹Ê¾ÉÏ.
+##CSS²¿·Ö±È½Ï·ÑÊÂµÄµØ·½ÔÚÃ÷ÐÇµ¥Æ·ºÍÈÈÂô×¨Çø,ÐèÒªÍ¨¹ý¾ø¶Ô¶¨Î»½«²»¹æÔòµÄÍ¼Æ¬ÉèÖÃÔÚ¹Ì¶¨Î»ÖÃ,·ÀÖ¹Ò³ÃæÔÚËõÐ¡»ò·Å´óÊ±ÅÜ°æ.
+
+##ÏÂÒ»´Î¸üÐÂ½«Ê¹ÓÃless½«cssÊä³ö²¢ÇÒÑ¹Ëõ.
